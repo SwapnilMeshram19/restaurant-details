@@ -1,390 +1,482 @@
 {
-    "restaurant":[
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Openhouse Cafe",
-            "img":"https://im1.dineout.co.in/images/uploads/restaurant/sharpen/1/j/y/p19748-16474299906231c96621c58.jpg?tr=tr:n-large",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":112,
-            "reviews":112,
-            "rating":4.1,
-            "cost_for_one":1000,
-            "cost_for_two":2000,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": false
-            }
-
-        },
-        {
-            "name":"Ministry Of Beer",
-            "img":"https://im1.dineout.co.in/images/uploads/restaurant/sharpen/3/a/d/p32381-1495943585592a49a166fe7.jpg?tr=tr:n-large",
-            "categories":["Asian","Continental","North Indian","American"],
-            "total_votes":190,
-            "reviews":150,
-            "rating":4,
-            "cost_for_one":1500,
-            "cost_for_two":3000,
-            "payment_methods": {
-                "card": false,
-                "cash": true,
-                "upi": false
-            }
-
-        },
-        {
-            "name":"Warehouse Cafe",
-            "img":"https://im1.dineout.co.in/images/uploads/restaurant/sharpen/4/h/o/p420-15241335515ad86eaf373ce.jpg?tr=tr:n-large",
-            "categories":["Italian","Chinese"],
-            "total_votes":657,
-            "reviews":350,
-            "rating":4.1,
-            "cost_for_one":1250,
-            "cost_for_two":2500,
-            "payment_methods": {
-                "card": true,
-                "cash": false,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"The G.T. ROAD",
-            "img":"https://im1.dineout.co.in/images/uploads/restaurant/sharpen/3/m/u/p31393-15972091555f337a43bb961.jpg?tr=tr:n-large",
-            "categories":["North Indian"],
-            "total_votes":355,
-            "reviews":220,
-            "rating":4.3,
-            "cost_for_one":1400,
-            "cost_for_two":2800,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        },
-        {
-            "name":"Tocandira Lab",
-            "img":"https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
-            "categories":["Asian","Italian","North Indian"],
-            "total_votes":1854,
-            "reviews":250,
-            "rating":4.5,
-            "cost_for_one":1235,
-            "cost_for_two":2333,
-            "payment_methods": {
-                "card": true,
-                "cash": true,
-                "upi": true
-            }
-
-        }
-    ]
-
-
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "Openhouse Cafe",
+      "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/1/j/y/p19748-16474299906231c96621c58.jpg?tr=tr:n-large",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 112,
+      "reviews": 112,
+      "rating": 4.1,
+      "cost_for_one": 1000,
+      "cost_for_two": 2000,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": false
+      }
+    },
+    {
+      "id": 3,
+      "name": "Ministry Of Beer",
+      "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/3/a/d/p32381-1495943585592a49a166fe7.jpg?tr=tr:n-large",
+      "categories": [
+        "Asian",
+        "Continental",
+        "North Indian",
+        "American"
+      ],
+      "total_votes": 190,
+      "reviews": 150,
+      "rating": 4,
+      "cost_for_one": 1500,
+      "cost_for_two": 3000,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+      }
+    },
+    {
+      "id": 4,
+      "name": "Warehouse Cafe",
+      "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/4/h/o/p420-15241335515ad86eaf373ce.jpg?tr=tr:n-large",
+      "categories": [
+        "Italian",
+        "Chinese"
+      ],
+      "total_votes": 657,
+      "reviews": 350,
+      "rating": 4.1,
+      "cost_for_one": 1250,
+      "cost_for_two": 2500,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 5,
+      "name": "The G.T. ROAD",
+      "img": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/3/m/u/p31393-15972091555f337a43bb961.jpg?tr=tr:n-large",
+      "categories": [
+        "North Indian"
+      ],
+      "total_votes": 355,
+      "reviews": 220,
+      "rating": 4.3,
+      "cost_for_one": 1400,
+      "cost_for_two": 2800,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 6,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 7,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 8,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 9,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 10,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 11,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 12,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 13,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 14,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 15,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 16,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 17,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 18,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 19,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 20,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 21,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 22,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 23,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 24,
+      "name": "Tocandira Lab",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-o/21/c8/f7/dd/venha-com-toda-a-galera.jpg",
+      "categories": [
+        "Asian",
+        "Italian",
+        "North Indian"
+      ],
+      "total_votes": 1854,
+      "reviews": 250,
+      "rating": 4.5,
+      "cost_for_one": 1235,
+      "cost_for_two": 2333,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    }
+  ]
 }
