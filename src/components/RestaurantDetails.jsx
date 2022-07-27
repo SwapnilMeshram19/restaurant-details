@@ -4,14 +4,21 @@ import {
   CardActions,
   CardContent,
   CardMedia,
+  FormControl,
+  MenuItem,
+  Rating,
+  Select,
   Typography,
 } from "@mui/material";
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 import ChevronRightIcon from "@mui/icons-material/ChevronRight";
+import { Box } from "@mui/system";
 
 const RestaurantDetails = () => {
   const [data, setData] = useState([]);
+  const [ratingValue,setRatingValue]=useState(1);
+  const [paymentMethod,setPaymentMethod]=useState('all')
 
   //   console.log(Data)
   const getData = () => {
@@ -30,6 +37,40 @@ const RestaurantDetails = () => {
   }, []);
   return (
     <div>
+        <h1 style={{color:"blue",textDecoration:"underline"}}>Restaurants</h1>
+        <Box
+      sx={{
+        '& > legend': { mt: 2 },
+      }}
+    >
+      <Typography component="legend">Sort By Rating</Typography>
+      <Rating
+        name="simple-controlled"
+        value={ratingValue}
+        onChange={(event) => {
+          setRatingValue(parseInt(event.target.value));
+        }}
+      />
+      </Box>
+      <Box>
+        <FormControl sx={{size:"small"}}>
+        <Typography component="legend">Sort By Payment Types</Typography>
+        <Select
+          labelId="demo-simple-select-label"
+          id="demo-simple-select"
+          value={paymentMethod}
+          onChange={(event)=>setPaymentMethod(event.target.value)}
+          sx={{width:100, size:"small"}}
+        >
+          <MenuItem value="all">All</MenuItem>
+          <MenuItem value="card">Card</MenuItem>
+          <MenuItem value="cash">Cash</MenuItem>
+          <MenuItem value="upi">Upi</MenuItem>
+        </Select>
+
+        </FormControl>
+        
+      </Box>
       <div>
         {data.map((ele) => (
           <div key={ele.id}>
