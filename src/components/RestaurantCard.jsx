@@ -5,10 +5,6 @@ import {
     CardActions,
     CardContent,
     CardMedia,
-    FormControl,
-    MenuItem,
-    Rating,
-    Select,
     Typography,
   } from "@mui/material";
 

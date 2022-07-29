@@ -87,7 +87,7 @@ const RestaurantDetails = () => {
   const filterByRating=()=>{
     console.log(ratingValue)
     setData(data.filter((el)=>{
-      return (el.rating>=ratingValue);
+      return parseInt(el.rating) === parseInt(ratingValue);
     }))
   };
   return (
